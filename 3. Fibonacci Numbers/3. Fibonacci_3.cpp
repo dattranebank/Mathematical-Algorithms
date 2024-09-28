@@ -2,7 +2,7 @@
 #include <string> // for string and to_string()
 using namespace std;
 
-// 3. The Nth Fibonnaci (Tìm số Fibonacci thứ N)
+// 3. The Nth Fibonnaci (Tìm số Fibonacci thứ n)
 // Link exercise: https://www.geeksforgeeks.org/problems/the-nth-fibonnaci3150/1
 // Link answer:
 
